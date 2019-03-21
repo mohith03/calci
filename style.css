@@ -1,0 +1,11 @@
+.container{
+  height:200px;
+  width:350px;
+  background-color: #000;
+}
+
+  #display{
+    height:40px;
+    width:350px;
+    background-color: #00bfff;
+  }
